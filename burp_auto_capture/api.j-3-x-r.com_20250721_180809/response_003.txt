@@ -1,0 +1,25 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:36:59 GMT
+Content-Type: application/json
+Access-Control-Expose-Headers: Date,x-fc-request-id,x-fc-error-type,x-fc-code-checksum,x-fc-invocation-duration,x-fc-max-memory-usage,x-fc-log-result,x-fc-invocation-code-version,x-fc-instance-id
+Access-Control-Expose-Headers: tag,x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Fc-Code-Checksum: 17827588798170980298
+X-Fc-Instance-Id: c-687e9d45-0aca7807-85da73959fcb
+X-Fc-Invocation-Duration: 126
+X-Fc-Invocation-Service-Version: 44
+X-Fc-Max-Memory-Usage: 1489.66
+X-Fc-Request-Id: 1-687ea4eb-0a35bbd1-eb3f667f6b06
+X-Trace-Id: NSGPOI21
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=2FdAt5fzt0J0tv2VcQ.lfqYNYaGpfQWvHL2.8Uq4sVw-1753130219-1.0.1.1-i5xz24qFws8PfFAThoQPXbLy1Agq72c7NV.fNpmt_HODg2hJQSuUmkCMfJ7R_QxrwjufD_VvFni10EDeSyb4DCjsPmK0UOn4spCWLh1LKZk; path=/; expires=Mon, 21-Jul-25 21:06:59 GMT; domain=.j-3-x-r.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=LGKjRuuOIOE8o.pvX8gafSjM4EIXdquxb5fa9EIZs74-1753130219367-0.0.1.1-604800000; path=/; domain=.j-3-x-r.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 962d7e5d6f45f1dd-GRU
+
+{"dt":{"inwe":false,"bl":1.2,"maxwm":2500,"ml":[1,2,3,4,5,6,7,8,9,10],"mxl":5,"ls":{"si":{"ge":null,"fb":null,"it":false,"tb":0,"hashr":null,"gwt":0,"wt":"C","ctw":0,"wbn":null,"wid":0,"wk":"0_C","ml":1,"tbb":0,"cs":0.08,"mf":{"ms":[true],"mi":[0],"mt":[2]},"ssaw":0,"st":1,"imw":false,"orl":[2,2,5,0,0,0,6,3,3],"nst":1,"wp":null,"aw":0,"sid":"0","wfg":null,"pmt":null,"fs":null,"tw":0,"blb":0,"pcwc":0,"lw":null,"mr":null,"fstc":null,"np":0,"crtw":0,"bl":10,"blab":0,"rl":[2,2,5,0,0,0,6,3,3],"pf":0,"ocr":null,"gm":1,"cwc":0,"rwsp":null,"psid":"0"}},"cc":"BRL","iuwe":false,"wt":{"mw":5,"smgw":50,"mgw":35,"bw":20},"cs":[0.08,0.8,3,10],"fb":{"bm":5,"t":50,"is":true}},"err":null}
