@@ -1,0 +1,16 @@
+POST /web-api/game-proxy/v2/GameName/Get?traceId=LXPRQH21&uid=3-2813375077&gameid=40080081&tid=9569090 HTTP/2
+Host: api.j-3-x-r.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+Origin: https://m-b.j-3-x-r.com
+Referer: https://m-b.j-3-x-r.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Te: trailers
+
+lang=pt&btt=1&atk=80c4619f-001f-4113-9b27-8bcda7b0b265-3s&pf=1&gid=1695365&gdid=2278
