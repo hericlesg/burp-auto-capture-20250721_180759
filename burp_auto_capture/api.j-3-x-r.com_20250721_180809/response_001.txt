@@ -1,0 +1,25 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:36:58 GMT
+Content-Type: application/json
+Access-Control-Expose-Headers: Date,x-fc-request-id,x-fc-error-type,x-fc-code-checksum,x-fc-invocation-duration,x-fc-max-memory-usage,x-fc-log-result,x-fc-invocation-code-version,x-fc-instance-id
+Access-Control-Expose-Headers: tag,x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Fc-Code-Checksum: 17827588798170980298
+X-Fc-Instance-Id: c-687e9b00-0aca7807-91d7c1968b80
+X-Fc-Invocation-Duration: 62
+X-Fc-Invocation-Service-Version: 44
+X-Fc-Max-Memory-Usage: 1202.79
+X-Fc-Request-Id: 1-687ea4ea-0a26245a-58a7b4d94fb8
+X-Trace-Id: JPEBYQ21
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=wgFe3suI3hwloR7EP4l9ZFHefKmS7Oe.PR9jO0xuX8M-1753130218-1.0.1.1-9snkYZKTDv.ZEVNQibliQodH8jYq_i67CMpeEO6Q6jjyZXDIiwl9j5OapMuYERNd9xZFfdm4u6FXBqNUMiaNbjyz_1ZtWOmoAphpl5glh4M; path=/; expires=Mon, 21-Jul-25 21:06:58 GMT; domain=.j-3-x-r.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=TbmvlvgNKHDi73TvkmNBJrO.JJmmON39ZUhH0AnAFfA-1753130218846-0.0.1.1-604800000; path=/; domain=.j-3-x-r.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 962d7e5a7f28f1dd-GRU
+
+{"dt":{"nkn":"2813375077","bau":"https://api.pgf-asw0zz.com/web-api/game-proxy/","gm":[{"medt":1672972799000,"gid":1543462,"amsg":"","msdt":1672972799000,"st":1}],"occ":{"rurl":"","tlb":"","trb":"","tcm":"","ttp":0,"tsc":0},"lau":"https://api.pgf-asw0zz.com/game-api/lobby/","uiogc":{"cl":0,"np":0,"bfbsi":0,"gec":1,"rp":0,"cbu":0,"ivs":1,"hn":1,"et":0,"we":0,"std":0,"pwr":0,"as":0,"ts":0,"vc":0,"ign":1,"mr":0,"hd":0,"bfbli":0,"il":0,"bu":0,"grtp":0,"bf":1,"phtr":0,"igv":0,"asc":0,"hnp":0,"smpo":0,"grt":0,"gc":1,"bb":1,"tsn":0,"ir":0,"gsc":0},"tk":"80c4619f-001f-4113-9b27-8bcda7b0b265-3s","cc":"BRL","st":1,"geu":"https://api.pgf-asw0zz.com/game-api/fortune-dragon/","ioph":"03fe9772f4d8","ec":[],"pcd":"2813375077","cs":"R$","pid":"2813375077","oj":{"jid":1}},"err":null}
