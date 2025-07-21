@@ -1,0 +1,15 @@
+GET /1695365/index.html?l=pt&ot=8a5810a1-614e-4cf1-836d-27e1a7b0b265-3s&ops=8b0be509-b147-446e-8b1a-c975a7b0b265-3s&btt=1&or=https://static-b.j-3-x-r.com&gdid=2278&ogid=1695365&vh=verify.pgsoft.com.vc&__hv=1faa72ba&gid=40080081&tid=9569090&uid=3-2813375077&vv=5484663 HTTP/2
+Host: m-b.j-3-x-r.com
+Cookie: __cf_bm=5mZX4Vh_Vez2mPVIS59uI5p5aB9PsrrFilc.XpLyLNY-1753130215-1.0.1.1-nf6bVQ3BCXiGJKYm1HxPVJy43Ti1a1qHOQGFiBW6vuXTJEAVUnpAK9g7e3rTEstGpjFBf4PwO7qp8Z_DZTe9AeGtr8JcFzWVysGcO7godCI; _cfuvid=GCzWmNuVssjY5sOMFsFx7dmSianlD8dIY3j4mV9ZVBI-1753130215948-0.0.1.1-604800000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://rmbqozvki.com/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
