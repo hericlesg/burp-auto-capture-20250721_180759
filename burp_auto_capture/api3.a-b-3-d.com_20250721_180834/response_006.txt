@@ -1,0 +1,30 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:37:26 GMT
+Content-Type: application/json
+Cf-Ray: 962d7f04ff0d1aee-GRU
+Cf-Cache-Status: DYNAMIC
+Vary: Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Cache-Source: ORIGIN
+X-Cache-Status: MISS
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687e9e18-0aca7807-430ea604372c
+X-Fc-Invocation-Duration: 125
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 949.12
+X-Fc-Request-Id: 1-687ea506-0ad19a46-44171e76fa65
+X-Tag: AmoeOC0TYSoxGGlXPW5oSRwcAhUdQw8QIBdJDmNcBCcYPQc/ak0XPiUOOSQCEX5ZV0hDUE8EcUZ6Dw==
+X-Trace-Id: 13FCMKTP
+Set-Cookie: __cf_bm=QZwygDhYeW2nNijvHyxZA8GMR014.UGedFLsRXyPYzw-1753130246-1.0.1.1-97C38PMVibgB4Mh6aVh5OmOH68ZUDRDS3jkXAfoKD325up50o4Oxh.nZINoM_V4euQzZas5e_6vHzw22ykyxCgoIucHQGVJuOpCnZ0vC29Y; path=/; expires=Mon, 21-Jul-25 21:07:26 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Speculation-Rules: "/cdn-cgi/speculation"
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=89MZj01JVpfrSR2zHXGSHSXAyK_aWIlYYPcVY6pT1as-1753130246233-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"id":2813375077,"userName":"64937598535","phoneNumber":"64937598535","email":null,"remark":null,"type":"normal","tenantName":"508","realName":null,"regionName":"å·´è¥¿","historicalPay":0,"appType":"DesktopOS","firstRechargeAmount":0,"withdrawCount":0,"avatar":"https://upload-us.f-1-g-h.com/avatar/male_1.jpg","userId":2813375077,"trialPlayBalance":0,"trialPlayWithdrawHint":"1","isNewMail":false,"canApplyRegisterReward":false,"canUseRegisterRewardInfo":true}}}}
