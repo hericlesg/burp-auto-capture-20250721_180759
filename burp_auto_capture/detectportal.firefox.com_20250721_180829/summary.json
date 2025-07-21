@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250721_180829", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/request_001.txt", 
+      "url": "http://detectportal.firefox.com:80/canonical.html", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/response_001.txt", 
+      "timestamp": 1753130233753
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/request_002.txt", 
+      "url": "http://detectportal.firefox.com:80/success.txt?ipv6", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/response_002.txt", 
+      "timestamp": 1753130233843
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/request_003.txt", 
+      "url": "http://detectportal.firefox.com:80/success.txt?ipv4", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/detectportal.firefox.com_20250721_180829/response_003.txt", 
+      "timestamp": 1753130233843
+    }
+  ], 
+  "host": "detectportal.firefox.com", 
+  "total_requests": 3
+}
