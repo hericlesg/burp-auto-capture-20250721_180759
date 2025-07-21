@@ -1,0 +1,24 @@
+GET /api/frontend/trpc/activity.activityDetail?input=%7B%22json%22%3A%7B%22activityId%22%3A519%2C%22type%22%3A%22RedPacket%22%7D%7D HTTP/2
+Host: api3.a-b-3-d.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://rmbqozvki.com/
+Content-Type: application/json
+Tenantid: 9569090
+X-Trace-Id: 83NLC1IL
+X-Device-Type: DesktopOS
+X-Device-Id: 020c1c73-d1f4-4ad0-9a24-97b45762f435
+Client-Language: pt-BR
+X-Tag: AmoeOC0TYSoxGGlXPW5oSRwcAhUdQw8QIBdJDmNcBCcYPQc/ak0XPiUOOSQCEX5ZV0hDUE8EcUZ6Dw==
+X-Client-Version: v159
+Origin: https://rmbqozvki.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer f6ew70ixtbv4rul56g6cvhkqrcjqgkhs0f5h46gn
+Channelid: 
+Priority: u=4
+Te: trailers
+
