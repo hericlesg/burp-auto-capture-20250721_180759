@@ -1,0 +1,16 @@
+POST /game-api/fortune-dragon/v2/Spin?traceId=ERMKVR21&uid=3-2813375077&gameid=40080081&tid=9569090 HTTP/2
+Host: api.j-3-x-r.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 114
+Origin: https://m-b.j-3-x-r.com
+Referer: https://m-b.j-3-x-r.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Te: trailers
+
+cs=0.08&ml=1&pf=1&id=17531302282172376&wk=0_C&fb=false&btt=1&atk=8b0be509-b147-446e-8b1a-c975a7b0b265-3s&gdid=2278
