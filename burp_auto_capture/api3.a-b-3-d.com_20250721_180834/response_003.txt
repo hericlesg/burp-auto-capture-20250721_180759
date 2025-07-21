@@ -1,0 +1,34 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:37:25 GMT
+Content-Type: application/json
+Cf-Ray: 962d7f045e5b1aee-GRU
+Cf-Cache-Status: HIT
+Age: 3
+Cache-Control: s-maxage=15, max-age=15, stale-while-revalidate=75, stale-if-error=86400
+Last-Modified: Mon, 21 Jul 2025 20:37:22 GMT
+Vary: Tenantid, Client-Language, X-Gray, Domain, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+Speculation-Rules: "/cdn-cgi/speculation"
+X-Cache-Date: Mon, 21 Jul 2025 20:37:22 GMT
+X-Cache-Source: CACHE
+X-Cache-Status: HIT
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687ea3b8-0aca7807-acc9efd9e3fc
+X-Fc-Invocation-Duration: 38
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 1103.92
+X-Fc-Request-Id: 1-687ea502-0ab57fa9-fb5f0198866b
+X-Original-Cache-Control: s-maxage=15, max-age=15, stale-while-revalidate=75, stale-if-error=86400
+X-Trace-Id: JAX52YDH
+Set-Cookie: __cf_bm=I65lrpPmt4z4bXCOENMWzQV9rX9EZvjomtlEM00SWtw-1753130245-1.0.1.1-TGNgzwN3TKFQbGcPTdRKI1k86wHaM9X.2hEVvAwp2rIzNzD0.HOu6JLA.vO4UEb2e6ljs0dRYH5titFBoNWWwO03XS3EeC9muSi.rn0tjtw; path=/; expires=Mon, 21-Jul-25 21:07:25 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=fiNKThJULwIogN0auYZZtQZcTJEON3qwVuc68tRt6co-1753130245887-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":[{"time":1753130220000,"prizePoolValue":95337015578},{"time":1753130223000,"prizePoolValue":95338725936},{"time":1753130226000,"prizePoolValue":95343056953},{"time":1753130229000,"prizePoolValue":95343879582},{"time":1753130232000,"prizePoolValue":95347159281},{"time":1753130235000,"prizePoolValue":95352674219},{"time":1753130238000,"prizePoolValue":95355433372},{"time":1753130241000,"prizePoolValue":95363140059},{"time":1753130244000,"prizePoolValue":95365848796},{"time":1753130247000,"prizePoolValue":95372423265},{"time":1753130250000,"prizePoolValue":95375686442},{"time":1753130253000,"prizePoolValue":95378329888},{"time":1753130256000,"prizePoolValue":95386173130},{"time":1753130259000,"prizePoolValue":95389589687},{"time":1753130262000,"prizePoolValue":95389817762},{"time":1753130265000,"prizePoolValue":95395364423},{"time":1753130268000,"prizePoolValue":95399156071},{"time":1753130271000,"prizePoolValue":95405742309},{"time":1753130274000,"prizePoolValue":95410738542},{"time":1753130277000,"prizePoolValue":95415049921},{"time":1753130280000,"prizePoolValue":95423141878},{"time":1753130283000,"prizePoolValue":95424660040},{"time":1753130286000,"prizePoolValue":95428132555},{"time":1753130289000,"prizePoolValue":95431018397},{"time":1753130292000,"prizePoolValue":95439631404},{"time":1753130295000,"prizePoolValue":95442236069},{"time":1753130298000,"prizePoolValue":95445961026},{"time":1753130301000,"prizePoolValue":95452945265},{"time":1753130304000,"prizePoolValue":95455479359},{"time":1753130307000,"prizePoolValue":95458669837},{"time":1753130310000,"prizePoolValue":95465418450},{"time":1753130313000,"prizePoolValue":95472414265},{"time":1753130316000,"prizePoolValue":95477087881},{"time":1753130319000,"prizePoolValue":95484918721},{"time":1753130322000,"prizePoolValue":95493070579},{"time":1753130325000,"prizePoolValue":95495825183},{"time":1753130328000,"prizePoolValue":95500304003},{"time":1753130331000,"prizePoolValue":95504306799},{"time":1753130334000,"prizePoolValue":95511195101},{"time":1753130337000,"prizePoolValue":95513768482},{"time":1753130340000,"prizePoolValue":95522333950}]}}}
