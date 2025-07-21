@@ -1,0 +1,30 @@
+HTTP/2 200 OK
+Date: Mon, 21 Jul 2025 20:37:26 GMT
+Content-Type: application/json
+Cf-Ray: 962d7f04eeee1aee-GRU
+Cf-Cache-Status: DYNAMIC
+Vary: Accept-Encoding, Accept-Encoding
+Access-Control-Expose-Headers: Date, x-fc-request-id, x-fc-error-type, x-fc-code-checksum, x-fc-invocation-duration, x-fc-max-memory-usage, x-fc-log-result, x-fc-invocation-code-version, x-fc-instance-id, tag, x-tag
+Cross-Origin-Resource-Policy: cross-origin
+X-Cache-Source: ORIGIN
+X-Cache-Status: MISS
+X-Fc-Code-Checksum: 8865929385518329188
+X-Fc-Instance-Id: c-687ea188-0aca7807-4bd48abad715
+X-Fc-Invocation-Duration: 146
+X-Fc-Invocation-Service-Version: 104
+X-Fc-Max-Memory-Usage: 568.99
+X-Fc-Request-Id: 1-687ea506-0ae7b5d6-fac02fc7fd9f
+X-Tag: AmoeOC0TYSoxGGlXPW5oSRwcAhUdQw8QIBdJDmNcBCcYPQc/ak0XPiUOOSQCEX5ZV0hDUE8EcUZ6Dw==
+X-Trace-Id: 83NLC1IL
+Set-Cookie: __cf_bm=C95SOYE3P3cDA8mYmP39MQGTV_FJfcLHD310TM9rbhU-1753130246-1.0.1.1-XOZVxK6M2lZns_KSapxYgctsGUjLlRfQE9uo82Ek8aQuJrFsk4d54NoVwP1Jwo962L3tZhYMwSFEPDeDOe5RV2fIL3HmCDcpTRWbH9YLD6E; path=/; expires=Mon, 21-Jul-25 21:07:26 GMT; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Speculation-Rules: "/cdn-cgi/speculation"
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 86400
+Set-Cookie: _cfuvid=pq5pKwkgcwepY295.3pU4gj50AvuwWyUxXudKLyKmAw-1753130246275-0.0.1.1-604800000; path=/; domain=.a-b-3-d.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"data":{"json":{"rewardCount":0,"startTime":"2025-06-06T03:58:38.000Z","endTime":"2035-12-30T00:00:00.000Z","ruleType":"DEFAULT","rule":"{\"variablesValue\":{\"times\":12,\"duration\":59,\"rewardCount\":100000,\"multiplier\":0,\"bettingOnly\":\"\",\"utcValue\":\"Etc/GMT+3\",\"ruleTimeShow\":\"æ°¸ä¹\",\"timeType\":\"PERMANENT\",\"limitType\":\"ON\",\"limitData\":\"Slot: PG, Tada, JDB, PP, CP, G759, FaChai, POPOK\",\"joinType\":\"RECHARGE\",\"awardExpiredDays\":0,\"rewardAuditType\":\"Gift\"}}","timeConfig":[{"hour":0,"durationIn":59},{"hour":2,"durationIn":59},{"hour":4,"durationIn":59},{"hour":6,"durationIn":59},{"hour":8,"durationIn":59},{"hour":10,"durationIn":59},{"hour":12,"durationIn":59},{"hour":14,"durationIn":59},{"hour":16,"durationIn":59},{"hour":18,"durationIn":59},{"hour":20,"durationIn":59},{"hour":22,"durationIn":59}],"canReceive":false,"maxAmount":777700,"appIconUrl":"https://upload-us.x-y-2-z.com/s3/1747813369769/dongbao.gif","roundMaxAmount":10000000,"dailyMaxCount":5,"receiveCount":0,"rechargeAmount":0,"betAmount":0,"JoinTypes":"RECHARGE","multilingual":{"rule":"{\"variablesValue\":{\"times\":12,\"duration\":59,\"rewardCount\":100000,\"multiplier\":0,\"bettingOnly\":\"\",\"utcValue\":\"Etc/GMT+3\",\"ruleTimeShow\":\"æ°¸ä¹\",\"timeType\":\"PERMANENT\",\"limitType\":\"ON\",\"limitData\":\"Slot: PG, Tada, JDB, PP, CP, G759, FaChai, POPOK\",\"joinType\":\"RECHARGE\",\"awardExpiredDays\":0,\"rewardAuditType\":\"Gift\"}}","ruleType":"DEFAULT","name":"ç¥ç§ç¿åº","nameType":"DEFAULT","nameParams":"{\"variablesValue\":{\"resetType\":\"DAILY\",\"rechargeType\":\"FIRST\"}}","previewText":"","activityDetailSelect":"style_1"}}}}}
