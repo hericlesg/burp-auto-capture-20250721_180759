@@ -1,0 +1,127 @@
+{
+  "capture_timestamp": "20250721_180834", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_001.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/game.login?input=%7B%22json%22%3A%7B%22gameId%22%3A2278%2C%22lobbyUrl%22%3A%22https%3A%2F%2Frmbqozvki.com%2Flaunch%22%7D%7D", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_001.txt", 
+      "timestamp": 1753130217616
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_002.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/game.end?input=%7B%22json%22%3A%7B%22userId%22%3A2813375077%7D%7D", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_002.txt", 
+      "timestamp": 1753130247275
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_003.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/prizePool.info?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_003.txt", 
+      "timestamp": 1753130247895
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_004.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/reward.list?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_004.txt", 
+      "timestamp": 1753130248118
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_005.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/user.assets?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_005.txt", 
+      "timestamp": 1753130248218
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_006.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/user.details?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_006.txt", 
+      "timestamp": 1753130248234
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_007.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/task.list?input=%7B%22json%22%3A%7B%22page%22%3A1%2C%22pageSize%22%3A999%2C%22taskType%22%3A%22NewbieTask%22%2C%22order%22%3A%5B%7B%22type%22%3A%22desc%22%2C%22key%22%3A%22sort%22%7D%5D%7D%7D", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_007.txt", 
+      "timestamp": 1753130248234
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_008.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/activity.activityDetail?input=%7B%22json%22%3A%7B%22activityId%22%3A519%2C%22type%22%3A%22RedPacket%22%7D%7D", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_008.txt", 
+      "timestamp": 1753130248256
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_009.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/activity.redPoint?input=%7B%22json%22%3A%7B%22activityIds%22%3A%5B%5D%7D%7D", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_009.txt", 
+      "timestamp": 1753130248272
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_010.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/game.login?input=%7B%22json%22%3A%7B%22gameId%22%3A2278%2C%22lobbyUrl%22%3A%22https%3A%2F%2Frmbqozvki.com%2Flaunch%22%7D%7D", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_010.txt", 
+      "timestamp": 1753130249345
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_011.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/user.getHasFirstRechargeAd?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_011.txt", 
+      "timestamp": 1753130259090
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_012.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/activity.homeTop?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_012.txt", 
+      "timestamp": 1753130268219
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_013.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/registerReward.info?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_013.txt", 
+      "timestamp": 1753130270103
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_014.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/user.getHasFirstRechargeAd?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_014.txt", 
+      "timestamp": 1753130319172
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/request_015.txt", 
+      "url": "https://api3.a-b-3-d.com:443/api/frontend/trpc/user.getHasFirstRechargeAd?input=%7B%22json%22%3A%7B%7D%7D", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/api3.a-b-3-d.com_20250721_180834/response_015.txt", 
+      "timestamp": 1753130379121
+    }
+  ], 
+  "host": "api3.a-b-3-d.com", 
+  "total_requests": 15
+}
