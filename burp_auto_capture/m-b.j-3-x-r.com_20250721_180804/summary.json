@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250721_180804", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/m-b.j-3-x-r.com_20250721_180804/request_001.txt", 
+      "url": "https://m-b.j-3-x-r.com:443/1695365/index.html?l=pt&ot=8284d23f-c962-4ee0-9b5d-1595a7b0b265-3s&ops=80c4619f-001f-4113-9b27-8bcda7b0b265-3s&btt=1&or=https://static-b.j-3-x-r.com&gdid=2278&ogid=1695365&vh=verify.pgsoft.com.vc&__hv=1faa72ba&gid=40080081&tid=9569090&uid=3-2813375077&vv=221ecaf", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/m-b.j-3-x-r.com_20250721_180804/response_001.txt", 
+      "timestamp": 1753130217985
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/m-b.j-3-x-r.com_20250721_180804/request_002.txt", 
+      "url": "https://m-b.j-3-x-r.com:443/1695365/index.html?l=pt&ot=8a5810a1-614e-4cf1-836d-27e1a7b0b265-3s&ops=8b0be509-b147-446e-8b1a-c975a7b0b265-3s&btt=1&or=https://static-b.j-3-x-r.com&gdid=2278&ogid=1695365&vh=verify.pgsoft.com.vc&__hv=1faa72ba&gid=40080081&tid=9569090&uid=3-2813375077&vv=5484663", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/m-b.j-3-x-r.com_20250721_180804/response_002.txt", 
+      "timestamp": 1753130268911
+    }
+  ], 
+  "host": "m-b.j-3-x-r.com", 
+  "total_requests": 2
+}
